@@ -41,4 +41,4 @@ Bu proje, CRUD işlemleri, kullanıcı kimlik doğrulama (login/logout), sayfala
 ## Kurulum
 1. Bu projeyi klonlayın:
    ```bash
-   git clone https://github.com/username/StoreApp.git
+   git clone https://github.com/Foreign1923/StoreApp.git
